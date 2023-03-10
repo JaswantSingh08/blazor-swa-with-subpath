@@ -31,7 +31,7 @@ jobs:
           # app_location: "publish/wwwroot" # App source code path
           api_location: "wwwroot" # Api source code path - optional
           # output_location: "publish/wwwroot" # Built app content directory - optional
-          output_location: "./" # Built app content directory - optional
+          output_location: "wwwroot" # Built app content directory - optional
           skip_app_build: true
           ###### End of Repository/Build Configurations ######
 
